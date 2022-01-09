@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1635532546 source:c:\users\susu\desktop\asg2\assign2\driver.cpp
+	"header.h"
+
+1635607938 c:\users\susu\desktop\asg2\assign2\header.h
+	<iostream>
+	<string>
+	<cstring>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1635619012 source:c:\users\susu\desktop\asg2\assign2\imp.cpp
+	"header.h"
+

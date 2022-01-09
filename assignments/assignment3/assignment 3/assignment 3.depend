@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1637001707 source:c:\users\susu\desktop\assignment3\assignment 3\functionimp.cpp
+	"header.h"
+
+1637001024 c:\users\susu\desktop\assignment3\assignment 3\header.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<cassert>
+
+1637001833 source:c:\users\susu\desktop\assignment3\assignment 3\driver.cpp
+	"header.h"
+

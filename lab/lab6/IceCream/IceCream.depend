@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1634120524 source:c:\users\susu\desktop\lab6\icecream\driver.cpp
+	"header.h"
+
+1634111723 c:\users\susu\desktop\lab6\icecream\header.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+
+1634120508 source:c:\users\susu\desktop\lab6\icecream\functonimp.cpp
+	"header.h"
+
+1634120508 source:c:\users\susu\desktop\uni\sem 3\programing 2\code\lab\lab6\icecream\functonimp.cpp
+	"header.h"
+
+1634111723 c:\users\susu\desktop\uni\sem 3\programing 2\code\lab\lab6\icecream\header.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+

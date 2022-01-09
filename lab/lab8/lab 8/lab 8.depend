@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635880156 source:c:\users\susu\desktop\lab8\lab 8\driver.cpp
+	"header.h"
+
+1635885939 c:\users\susu\desktop\lab8\lab 8\header.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<cassert>
+

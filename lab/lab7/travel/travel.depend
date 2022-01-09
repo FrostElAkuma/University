@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1634719809 source:c:\users\susu\desktop\lab7\travel\driver.cpp
+	"header.h"
+
+1634729169 c:\users\susu\desktop\lab7\travel\header.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+
+1634729547 source:c:\users\susu\desktop\lab7\travel\functionimp.cpp
+	"header.h"
+

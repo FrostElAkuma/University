@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1632896966 source:c:\users\susu\desktop\lab4\cost\product.cpp
+	"Product.h"
+
+1632913482 c:\users\susu\desktop\lab4\cost\product.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1632913206 source:c:\users\susu\desktop\lab4\cost\productimp.cpp
+	"Product.h"
+

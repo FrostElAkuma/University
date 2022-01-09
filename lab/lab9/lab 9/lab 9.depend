@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1636542714 source:c:\users\susu\desktop\lab9\lab 9\driver.cpp
+	"header.h"
+
+1636542722 c:\users\susu\desktop\lab9\lab 9\header.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<cassert>
+
+1636542528 source:c:\users\susu\desktop\lab9\lab 9\imp.cpp
+	"header.h"
+

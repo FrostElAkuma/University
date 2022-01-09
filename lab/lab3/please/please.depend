@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632314134 source:c:\users\susu\desktop\lab3\please\functions.cpp
+	"header.h"
+
+1632314150 c:\users\susu\desktop\lab3\please\header.h
+	<iostream>
+	<fstream>
+
+1632314118 source:c:\users\susu\desktop\lab3\please\main.cpp
+	"header.h"
+

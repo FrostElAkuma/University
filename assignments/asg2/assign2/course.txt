@@ -1,0 +1,21 @@
+ARAB1001 3 Arabic
+BIOL2101 4 General Biology I
+BIOL2102 4 General Biology II
+CHEM2101 4 General Chemistry I
+CHEM2102 4 General Chemistry II
+COMP1200 2 PC & Packages
+COMP2101 4 Introduction to Computer Science
+COMP2216 3 Fortran Programming
+ERSC2101 4 Introduction to Geology I
+ERSC2102 4 Introduction to Geology II
+HIST1010 2 Oman & Islamic Society
+LANC2050 3 English for Science I
+LANC2051 3 English for Science II
+MATH1106 4 Pre-Calculus Mathematics
+MATH2107 4 Calculus I
+MATH2202 3 Linear Algebra I
+PHYS2101 4 Physics I
+PHYS2102 4 Physics II
+SOCI3320 1 Modern Omani Society
+STAT1001 4 Introduction to Statistics
+STAT2102 3 Introduction to Probability

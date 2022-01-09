@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1633515483 source:c:\users\susu\desktop\lab5\carea\driver.cpp
+	"header.h"
+
+1633516635 c:\users\susu\desktop\lab5\carea\header.h
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+
+1633517541 source:c:\users\susu\desktop\lab5\carea\functionimp.cpp
+	"header.h"
+
