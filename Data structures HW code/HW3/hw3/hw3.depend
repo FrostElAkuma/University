@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650313819 source:c:\users\vilga\desktop\hw3\hw3\main.cpp
+	"myQueue.h"
+	<iostream>
+
+1650320052 c:\users\vilga\desktop\hw3\hw3\myqueue.h
+	<iostream>
+	<cassert>
+
